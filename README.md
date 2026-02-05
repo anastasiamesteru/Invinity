@@ -64,7 +64,7 @@ The button represented by a download icon allows the user to export the respecti
 </p>
 <p align="center">
 <img src="images/exportinvoice.PNG" alt="Export Invoice Modal" width="800">  <br>
-  <b>Figure 4:</b> <i>PDF document of the invoice, ready to download.</i>
+  <b>Figure 5:</b> <i>PDF document of the invoice, ready to download.</i>
 </p>
 
 The button represented by the crayon icon will open a modal with all the selected invoice’s data. 
@@ -72,7 +72,7 @@ The button represented by the crayon icon will open a modal with all the selecte
 </p>
 <p align="center">
 <img src="images/updateinvoice.PNG" alt="Export Invoice Modal" width="800">  <br>
-  <b>Figure 4:</b> <i>User editing the details of the invoice.</i>
+  <b>Figure 6:</b> <i>User editing the details of the invoice.</i>
 </p>
 
 The last button handles the emailing functionality. When pressed, the button opens a separate window prefilled with the client’s email and an auto-generated message, which includes invoice details and summarizes the available methods of payment.  
@@ -80,7 +80,7 @@ The last button handles the emailing functionality. When pressed, the button ope
 </p>
 <p align="center">
 <img src="images/emailinvoice.PNG" alt="Email regarding the invoice" width="800">  <br>
-  <b>Figure 4:</b> <i>User sending the details of the invoice via email.</i>
+  <b>Figure 7:</b> <i>User sending the details of the invoice via email.</i>
 </p>
 
 ### Report Page
@@ -89,7 +89,7 @@ The Report page of Invinity has mostly the same structure as the Invoice one. Th
 </p>
 <p align="center">
 <img src="images/reportfunc.PNG" alt="Report Page Functionalities" width="800">  <br>
-  <b>Figure 4:</b> <i>Report Page Functionalities.</i>
+  <b>Figure 8:</b> <i>Report Page Functionalities.</i>
 </p>
 
 ### Database Page
@@ -99,7 +99,7 @@ The database page is split into 3 sections: clients, vendors and items. Cients a
 </p>
 <p align="center">
 <img src="images/databasefunc.PNG" alt="Database Page Functionalities" width="800">  <br>
-  <b>Figure 4:</b> <i>Database Page Functionalities.</i>
+  <b>Figure 9:</b> <i>Database Page Functionalities.</i>
 </p>
 
 
