@@ -38,7 +38,7 @@ The dashboard of Invinity presents a personalized, small breakdown of invoicing 
 </p>
 At the bottom of the page, there is a breakdown of the entities in the user’s database, categorized by type.
 
-### Invoice
+### Invoice Page
 The Invoice page of Invinity allows users to manage, track and update their invoices as needed. Users can search for a specific invoice by using the Search functionality and typing any of its attributes, such as client, issue date, or status. Invoices are displayed in a table with details such as Invoice Number, Client, Vendor, Issue Date, Due Date, Status, Total, Payment. The Status column will automatically update based on the payment checkbox: when checked, it will reflect whether the invoice is On Time or Overdue and if unchecked, it will display as Pending. 
 
 The Actions column displays 3 icons: the first for editing the invoice, the second for downloading it as a PDF, and the third for emailing the invoice details to the client. 
@@ -83,6 +83,14 @@ The last button handles the emailing functionality. When pressed, the button ope
   <b>Figure 4:</b> <i>User sending the details of the invoice via email.</i>
 </p>
 
+### Report Page
+The Report page of Invinity has mostly the same structure as the Invoice one. The reports are displayed in a table with columns such as Report Number, Title, Start Date and End Date, meaning the time period covered by the report. In this page the user can create a new report using the add button, edit, delete or export as PDF.
+
+</p>
+<p align="center">
+<img src="images/reportfunc.PNG" alt="Report Page Functionalities" width="800">  <br>
+  <b>Figure 4:</b> <i>Report Page Functionalities.</i>
+</p>
 
 
 
