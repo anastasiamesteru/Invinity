@@ -32,7 +32,7 @@ The dashboard of Invinity presents a personalized, small breakdown of invoicing 
 At the bottom of the page, there is a breakdown of the entities in the user’s database, categorized by type.
 
 <p align="center">
-  <img src="images/dashboard.PNG" alt="Dashboard" width="800">
+  <img src="images/dashboard.PNG" alt="Invinity Dashboard" width="800">
   <br>
-  <b>Figure 1:</b> <i>Secure Log In and Registration forms for Invinity users.</i>
-</p>
+  <b>Figure 2:</b> <i>The Invinity Dashboard providing a real-time financial breakdown, annual trends, and database entity counts.</i>
+</p
