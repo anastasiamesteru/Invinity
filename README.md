@@ -28,7 +28,8 @@ The first page the user is brought to is the login page. If the user doesn’t h
 The navbar contains the logo for Invinity and the four main pages: Dashboard, the default landing page after logging in, Invoice, Report and Database. Additionally, there is a Log Out button, which redirects the user to the login page.
 
 ### Dashboard
-The dashboard of Invinity presents a personalized, small breakdown of invoicing activities. On the left side of the dashboard, users can view a breakdown of the current month’s financial status, including total number of invoices created during the current month, total collected, total oustanding and total overdue. On the right side of the dashboard, a line chart displays the totals for the entire year. 
+The dashboard of Invinity presents a personalized, small breakdown of invoicing activities. On the left side of the dashboard, users can view a breakdown of the current month’s financial status, including total number of invoices created during the current month, total collected, total oustanding and total overdue. On the right side of the dashboard, a line chart displays the totals for the entire year.
+
 At the bottom of the page, there is a breakdown of the entities in the user’s database, categorized by type.
 
 <p align="center">
@@ -36,3 +37,10 @@ At the bottom of the page, there is a breakdown of the entities in the user’s 
   <br>
   <b>Figure 2:</b> <i>The Invinity Dashboard providing a real-time financial breakdown, annual trends, and database entity counts.</i>
 </p
+  
+### Invoice page
+The Invoice page of Invinity allows users to manage, track and update their invoices as needed. Users can search for a specific invoice by using the Search functionality and typing any of its attributes, such as client, issue date, or status. Invoices are displayed in a table with details such as Invoice Number, Client, Vendor, Issue Date, Due Date, Status, Total, Payment. The Status column will automatically update based on the payment checkbox: when checked, it will reflect whether the invoice is On Time or Overdue and if unchecked, it will display as Pending. 
+
+The Actions column displays 3 icons: the first for editing the invoice, the second for downloading it as a PDF, and the third for emailing the invoice details to the client. 
+
+The Add button at the top of the page allows users to create a new invoice, while the pagination controls at the bottom help navigate through multiple pages of records, even when they are sorted or queried.
