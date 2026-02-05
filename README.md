@@ -35,7 +35,7 @@ The dashboard of Invinity presents a personalized, small breakdown of invoicing 
   <img src="images/dashboard.PNG" alt="Invinity Dashboard" width="800">
   <br>
   <b>Figure 2:</b> <i>The Invinity Dashboard providing a real-time financial breakdown, annual trends, and database entity counts.</i>
-</p
+</p>
 At the bottom of the page, there is a breakdown of the entities in the user’s database, categorized by type.
 
 ### Invoice
@@ -45,7 +45,15 @@ The Actions column displays 3 icons: the first for editing the invoice, the seco
 
 The Add button at the top of the page allows users to create a new invoice, while the pagination controls at the bottom help navigate through multiple pages of records, even when they are sorted or queried.
 
-<img src="images/invoicepage.PNG" alt="Invoice Management Page" width="800">
-  <br>
+</p>
+<p align="center">
+<img src="images/invoicepage.PNG" alt="Invoice Management Page" width="800">  <br>
   <b>Figure 3:</b> <i>The Invoice Management interface featuring automated status tracking and integrated search functionality.</i>
+</p>
+
+The Add button opens a form where the user can enter all necessary invoice details. If any data is entered incorrectly or left incomplete, error messages will appear to guide the user upon pressing the submit button. Additionally, there are three database icon buttons that allow users to directly select clients, vendors, or items from their personalized database.
+</p>
+<p align="center">
+<img src="images/createinvoice.PNG" alt="Add Invoice Page" width="800">  <br>
+  <b>Figure 4:</b> <i>User adding a new invoice and selecting items from the database/i>
 </p>
