@@ -92,7 +92,15 @@ The Report page of Invinity has mostly the same structure as the Invoice one. Th
   <b>Figure 4:</b> <i>Report Page Functionalities.</i>
 </p>
 
+### Database Page
 
+The database page is split into 3 sections: clients, vendors and items. Cients and vendors can be individuals or companies, while items can be products or services. On this page the user can only add or delete a specific entity, but these can be used to autocomplete information in the invoice.
+
+</p>
+<p align="center">
+<img src="images/databasefunc.PNG" alt="Database Page Functionalities" width="800">  <br>
+  <b>Figure 4:</b> <i>Database Page Functionalities.</i>
+</p>
 
 
 
