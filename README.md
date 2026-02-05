@@ -52,8 +52,42 @@ The Add button at the top of the page allows users to create a new invoice, whil
 </p>
 
 The Add button opens a form where the user can enter all necessary invoice details. If any data is entered incorrectly or left incomplete, error messages will appear to guide the user upon pressing the submit button. Additionally, there are three database icon buttons that allow users to directly select clients, vendors, or items from their personalized database.
+
 </p>
 <p align="center">
-<img src="images/createinvoice.PNG" alt="Add Invoice Page" width="800">  <br>
-  <b>Figure 4:</b> <i>User adding a new invoice and selecting items from the database/i>
+<img src="images/createinvoice.PNG" alt="Add Invoice Modal" width="800">  <br>
+  <b>Figure 4:</b> <i>User adding a new invoice and selecting items from the database.</i>
 </p>
+
+The button represented by a download icon allows the user to export the respective invoice as a PDF. When clicked, it will display a modal with the generated document.  
+
+</p>
+<p align="center">
+<img src="images/exportinvoice.PNG" alt="Export Invoice Modal" width="800">  <br>
+  <b>Figure 4:</b> <i>PDF document of the invoice, ready to download.</i>
+</p>
+
+The button represented by the crayon icon will open a modal with all the selected invoice’s data. 
+
+</p>
+<p align="center">
+<img src="images/updateinvoice.PNG" alt="Export Invoice Modal" width="800">  <br>
+  <b>Figure 4:</b> <i>User editing the details of the invoice.</i>
+</p>
+
+The last button handles the emailing functionality. When pressed, the button opens a separate window prefilled with the client’s email and an auto-generated message, which includes invoice details and summarizes the available methods of payment.  
+
+</p>
+<p align="center">
+<img src="images/emailinvoice.PNG" alt="Email regarding the invoice" width="800">  <br>
+  <b>Figure 4:</b> <i>User sending the details of the invoice via email.</i>
+</p>
+
+
+
+
+
+
+
+
+
